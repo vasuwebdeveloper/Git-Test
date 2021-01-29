@@ -7,3 +7,5 @@ function log(message){
 
 module.exports.endPoint = url;
 module.exports.log = log;
+
+//exported the log file
